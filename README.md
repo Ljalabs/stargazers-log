@@ -1,3 +1,5 @@
 # stargazers-log
 
-A log of the repositories I've starred
+A log of the repositories I've starred.
+
+Winning big.
